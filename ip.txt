@@ -21,7 +21,6 @@
 '150.230.255.146:6443#KR',
 'www.visa.com#US',
 'visa.cn#CN',
-'www.visa.cn:8443#CN',
 'www.visa.com.sg:8443#US',
 'yd20250326.jjuines.netlib.re#US',
 'workers.cloudflare.com#US',
